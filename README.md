@@ -1,26 +1,25 @@
 # README - Activit-VOSREVES-Charte-Informatique
-This code is an HTML document that represents the "Charte Informatique" of the company "VosReves". The document is written in French and consists of a series of guidelines and rules for the use of the company's computer and electronic communication resources.
-
+Ce code est un document HTML qui représente la "Charte Informatique" de la société "VosReves". Le document est rédigé en français et consiste en une série de directives et de règles pour l'utilisation des ressources informatiques et de communication électronique de l'entreprise.
 ## Features
-- Utilizes HTML for structure and content.
-- Incorporates CSS for styling with the file "css/style.css".
-- Uses JavaScript for a print button with the file "btnimprim.js".
-- Provides rules for securing access to computer accounts and electronic communications.
-- Specifies guidelines for the use of electronic mail for personal and professional purposes.
+- Utilise le langage HTML pour la structure et le contenu.
+- Incorpore le CSS pour le style avec le fichier "css/style.css".
+- Utilise JavaScript pour un bouton d'impression avec le fichier "btnimprim.js".
+- Fournit des règles pour sécuriser l'accès aux comptes informatiques et aux communications électroniques.
+- Spécifie des directives pour l'utilisation du courrier électronique à des fins personnelles et professionnelles.
 
 ## Requirements
-A web browser that supports HTML, CSS and JavaScript is required to view the document properly.
+Un navigateur web prenant en charge HTML, CSS et JavaScript est nécessaire pour visualiser correctement le document.
 
 ## Deployment
-1. Clone or download this repository.
-2. Open the file "index.html" with a web browser.
+1. Clonez ou téléchargez ce référentiel.
+2. Ouvrez le fichier "index.html" avec un navigateur web.
 
 ## Contributing
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Commit and push your changes.
-5. Submit a pull request.
+1. Fork le référentiel.
+2. Créer une nouvelle branche.
+3. Faites vos changements.
+4. Valider et pousser vos changements.
+5. Soumettre une demande de téléchargement.
 
 ## License
-This project is licensed under the terms of the MIT License.
+Ce projet est soumis aux termes de la licence Apache-2.0 license.
